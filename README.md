@@ -15,6 +15,6 @@ Add exec permissions and run `setup.sh`:
 chmod +x ./setup.sh && ./setup.sh
 ~~~
 
-*Note: when running setup.sh, CWD must contain both `setup.sh` and `launch_ra.sh`. 
+*Note: when running setup.sh, CWD must contain both `setup.sh` and `launch_ra.sh`.*
 
 
